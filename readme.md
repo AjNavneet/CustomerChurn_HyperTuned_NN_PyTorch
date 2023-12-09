@@ -1,4 +1,4 @@
-# Hypertuned Customer Churn Neural Network Model with PyTorch
+# Hypertuned Neural Network PyTorch Model for Customer Churnwith 
 
 ## Aim
 
@@ -35,17 +35,6 @@ To run this project, follow these steps:
 
 1. Install the required libraries listed in `requirements.txt`.
 2. Execute the code in the `Notebook` folder using Jupyter Notebook.
-
----
-
-## Key Concepts Explored
-
-1. Data preprocessing, including handling categorical and numerical features.
-2. Dealing with imbalanced datasets and techniques such as data augmentation and SMOTE.
-3. Label encoding for categorical features and scaling for numerical features.
-4. Understanding hyperparameters, dropout, learning rate, regularization, early stopping, and checkpoints.
-5. Tuning hyperparameters such as dropout, learning rate, epochs, early stopping, and checkpoints in PyTorch.
-6. Saving model checkpoints for future use.
 
 ---
 
